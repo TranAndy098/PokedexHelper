@@ -1,0 +1,584 @@
+#010	Caterpie
+
+#011	"Metapod
+トランセル"
+#012	"Butterfree
+バタフリー"
+#013	"Weedle
+ビードル"
+#014	"Kakuna
+コクーン"
+#015	"Beedrill
+スピアー"
+#016	"Pidgey
+ポッポ"
+#017	"Pidgeotto
+ピジョン"
+#018	"Pidgeot
+ピジョット"
+#019	"Rattata
+コラッタ"
+#020	"Raticate
+ラッタ"
+#021	"Spearow
+オニスズメ"
+#022	"Fearow
+オニドリル"
+#029	"Nidoran♀
+ニドラン♀"
+#030	"Nidorina
+ニドリーナ"
+#031	"Nidoqueen
+ニドクイン"
+#032	"Nidoran♂
+ニドラン♂"
+#033	"Nidorino
+ニドリーノ"
+#034	"Nidoking
+ニドキング"
+#041	"Zubat
+ズバット"
+#042	"Golbat
+ゴルバット"
+#046	"Paras
+パラス"
+#047	"Parasect
+パラセクト"
+#063	"Abra
+ケーシィ"
+#064	"Kadabra
+ユンゲラー"
+#065	"Alakazam
+フーディン"
+#066	"Machop
+ワンリキー"
+#067	"Machoke
+ゴーリキー"
+#068	"Machamp
+カイリキー"
+#077	"Ponyta
+ポニータ"
+#078	"Rapidash
+ギャロップ"
+#083	"Farfetch'd
+カモネギ"
+#095	"Onix
+イワーク"
+#098	"Krabby
+クラブ"
+#099	"Kingler
+キングラー"
+#104	"Cubone
+カラカラ"
+#105	"Marowak
+ガラガラ"
+#108	"Lickitung
+ベロリンガ"
+#114	"Tangela
+モンジャラ"
+#115	"Kangaskhan
+ガルーラ"
+#118	"Goldeen
+トサキント"
+#119	"Seaking
+アズマオウ"
+#120	"Staryu
+ヒトデマン"
+#121	"Starmie
+スターミー"
+#122	"Mr. Mime
+バリヤード"
+#124	"Jynx
+ルージュラ"
+#127	"Pinsir
+カイロス"
+#138	"Omanyte
+オムナイト"
+#139	"Omastar
+オムスター"
+#140	"Kabuto
+カブト"
+#141	"Kabutops
+カブトプス"
+#142	"Aerodactyl
+プテラ"
+#165	"Ledyba
+レディバ"
+#166	"Ledian
+レディアン"
+#169	"Crobat
+クロバット"
+#175	"Togepi
+トゲピー"
+#176	"Togetic
+トゲチック"
+#177	"Natu
+ネイティ"
+#178	"Xatu
+ネイティオ"
+#201	"Unown
+アンノーン"
+#202	"Wobbuffet
+ソーナンス"
+#208	"Steelix
+ハガネール"
+#213	"Shuckle
+ツボツボ"
+#222	"Corsola
+サニーゴ"
+#223	"Remoraid
+テッポウオ"
+#224	"Octillery
+オクタン"
+#226	"Mantine
+マンタイン"
+#238	"Smoochum
+ムチュール"
+#241	"Miltank
+ミルタンク"
+#251	"Celebi
+セレビィ"
+#263	"Zigzagoon
+ジグザグマ"
+#264	"Linoone
+マッスグマ"
+#265	"Wurmple
+ケムッソ"
+#266	"Silcoon
+カラサリス"
+#267	"Beautifly
+アゲハント"
+#268	"Cascoon
+マユルド"
+#269	"Dustox
+ドクケイル"
+#276	"Taillow
+スバメ"
+#277	"Swellow
+オオスバメ"
+#290	"Nincada
+ツチニン"
+#291	"Ninjask
+テッカニン"
+#292	"Shedinja
+ヌケニン"
+#293	"Whismur
+ゴニョニョ"
+#294	"Loudred
+ドゴーム"
+#295	"Exploud
+バクオング"
+#300	"Skitty
+エネコ"
+#301	"Delcatty
+エネコロロ"
+#303	"Mawile
+クチート"
+#304	"Aron
+ココドラ"
+#305	"Lairon
+コドラ"
+#306	"Aggron
+ボスゴドラ"
+#309	"Electrike
+ラクライ"
+#310	"Manectric
+ライボルト"
+#315	"Roselia
+ロゼリア"
+#318	"Carvanha
+キバニア"
+#319	"Sharpedo
+サメハダー"
+#320	"Wailmer
+ホエルコ"
+#321	"Wailord
+ホエルオー"
+#327	"Spinda
+パッチール"
+#337	"Lunatone
+ルナトーン"
+#338	"Solrock
+ソルロック"
+#343	"Baltoy
+ヤジロン"
+#344	"Claydol
+ネンドール"
+#345	"Lileep
+リリーラ"
+#346	"Cradily
+ユレイドル"
+#347	"Anorith
+アノプス"
+#348	"Armaldo
+アーマルド"
+#351	"Castform
+ポワルン"
+#352	"Kecleon
+カクレオン"
+#359	"Absol
+アブソル"
+#360	"Wynaut
+ソーナノ"
+#363	"Spheal
+タマザラシ"
+#364	"Sealeo
+トドグラー"
+#365	"Walrein
+トドゼルガ"
+#366	"Clamperl
+パールル"
+#367	"Huntail
+ハンテール"
+#368	"Gorebyss
+サクラビス"
+#369	"Relicanth
+ジーランス"
+#399	"Bidoof
+ビッパ"
+#400	"Bibarel
+ビーダル"
+#406	"Budew
+スボミー"
+#407	"Roserade
+ロズレイド"
+#412	"Burmy
+ミノムッチ"
+#413	"Wormadam
+ミノマダム"
+#414	"Mothim
+ガーメイル"
+#420	"Cherubi
+チェリンボ"
+#421	"Cherrim
+チェリム"
+#427	"Buneary
+ミミロル"
+#428	"Lopunny
+ミミロップ"
+#431	"Glameow
+ニャルマー"
+#432	"Purugly
+ブニャット"
+#439	"Mime Jr.
+マネネ"
+#441	"Chatot
+ペラップ"
+#451	"Skorupi
+スコルピ"
+#452	"Drapion
+ドラピオン"
+#455	"Carnivine
+マスキッパ"
+#458	"Mantyke
+タマンタ"
+#463	"Lickilicky
+ベロベルト"
+#465	"Tangrowth
+モジャンボ"
+#468	"Togekiss
+トゲキッス"
+#494	"Victini
+ビクティニ"
+#504	"Patrat
+ミネズミ"
+#505	"Watchog
+ミルホッグ"
+#506	"Lillipup
+ヨーテリー"
+#507	"Herdier
+ハーデリア"
+#508	"Stoutland
+ムーランド"
+#509	"Purrloin
+チョロネコ"
+#510	"Liepard
+レパルダス"
+#511	"Pansage
+ヤナップ"
+#512	"Simisage
+ヤナッキー"
+#513	"Pansear
+バオップ"
+#514	"Simisear
+バオッキー"
+#515	"Panpour
+ヒヤップ"
+#516	"Simipour
+ヒヤッキー"
+#517	"Munna
+ムンナ"
+#518	"Musharna
+ムシャーナ"
+#519	"Pidove
+マメパト"
+#520	"Tranquill
+ハトーボー"
+#521	"Unfezant
+ケンホロウ"
+#524	"Roggenrola
+ダンゴロ"
+#525	"Boldore
+ガントル"
+#526	"Gigalith
+ギガイアス"
+#527	"Woobat
+コロモリ"
+#528	"Swoobat
+ココロモリ"
+#531	"Audino
+タブンネ"
+#535	"Tympole
+オタマロ"
+#536	"Palpitoad
+ガマガル"
+#537	"Seismitoad
+ガマゲロゲ"
+#538	"Throh
+ナゲキ"
+#539	"Sawk
+ダゲキ"
+#543	"Venipede
+フシデ"
+#544	"Whirlipede
+ホイーガ"
+#545	"Scolipede
+ペンドラー"
+#554	"Darumaka
+ダルマッカ"
+#555	"Darmanitan
+ヒヒダルマ"
+#556	"Maractus
+マラカッチ"
+#557	"Dwebble
+イシズマイ"
+#558	"Crustle
+イワパレス"
+#561	"Sigilyph
+シンボラー"
+#562	"Yamask
+デスマス"
+#563	"Cofagrigus
+デスカーン"
+#564	"Tirtouga
+プロトーガ"
+#565	"Carracosta
+アバゴーラ"
+#566	"Archen
+アーケン"
+#567	"Archeops
+アーケオス"
+#568	"Trubbish
+ヤブクロン"
+#569	"Garbodor
+ダストダス"
+#582	"Vanillite
+バニプッチ"
+#583	"Vanillish
+バニリッチ"
+#584	"Vanilluxe
+バイバニラ"
+#587	"Emolga
+エモンガ"
+#588	"Karrablast
+カブルモ"
+#589	"Escavalier
+シュバルゴ"
+#592	"Frillish
+プルリル"
+#593	"Jellicent
+ブルンゲル"
+#597	"Ferroseed
+テッシード"
+#598	"Ferrothorn
+ナットレイ"
+#599	"Klink
+ギアル"
+#600	"Klang
+ギギアル"
+#601	"Klinklang
+ギギギアル"
+#605	"Elgyem
+リグレー"
+#606	"Beheeyem
+オーベム"
+#616	"Shelmet
+チョボマキ"
+#617	"Accelgor
+アギルダー"
+#618	"Stunfisk
+マッギョ"
+#621	"Druddigon
+クリムガン"
+#626	"Bouffalant
+バッフロン"
+#631	"Heatmor
+クイタラン"
+#632	"Durant
+アイアント"
+#649	"Genesect
+ゲノセクト"
+#659	"Bunnelby
+ホルビー"
+#660	"Diggersby
+ホルード"
+#674	"Pancham
+ヤンチャム"
+#675	"Pangoro
+ゴロンダ"
+#676	"Furfrou
+トリミアン"
+#679	"Honedge
+ヒトツキ"
+#680	"Doublade
+ニダンギル"
+#681	"Aegislash
+ギルガルド"
+#682	"Spritzee
+シュシュプ"
+#683	"Aromatisse
+フレフワン"
+#684	"Swirlix
+ペロッパフ"
+#685	"Slurpuff
+ペロリーム"
+#688	"Binacle
+カメテテ"
+#689	"Barbaracle
+ガメノデス"
+#694	"Helioptile
+エリキテル"
+#695	"Heliolisk
+エレザード"
+#696	"Tyrunt
+チゴラス"
+#697	"Tyrantrum
+ガチゴラス"
+#698	"Amaura
+アマルス"
+#699	"Aurorus
+アマルルガ"
+#710	"Pumpkaboo
+バケッチャ"
+#711	"Gourgeist
+パンプジン"
+#716	"Xerneas
+ゼルネアス"
+#717	"Yveltal
+イベルタル"
+#718	"Zygarde
+ジガルデ"
+#746	"Wishiwashi
+ヨワシ"
+#755	"Morelull
+ネマシュ"
+#756	"Shiinotic
+マシェード"
+#759	"Stufful
+ヌイコグマ"
+#760	"Bewear
+キテルグマ"
+#767	"Wimpod
+コソクムシ"
+#768	"Golisopod
+グソクムシャ"
+#771	"Pyukumuku
+ナマコブシ"
+#772	"Type: Null
+タイプ：ヌル"
+#773	"Silvally
+シルヴァディ"
+#776	"Turtonator
+バクガメス"
+#777	"Togedemaru
+トゲデマル"
+#780	"Drampa
+ジジーロン"
+#781	"Dhelmise
+ダダリン"
+#785	"Tapu Koko
+カプ・コケコ"
+#786	"Tapu Lele
+カプ・テテフ"
+#787	"Tapu Bulu
+カプ・ブルル"
+#788	"Tapu Fini
+カプ・レヒレ"
+#793	"Nihilego
+ウツロイド"
+#794	"Buzzwole
+マッシブーン"
+#795	"Pheromosa
+フェローチェ"
+#796	"Xurkitree
+デンジュモク"
+#797	"Celesteela
+テッカグヤ"
+#798	"Kartana
+カミツルギ"
+#799	"Guzzlord
+アクジキング"
+#802	"Marshadow
+マーシャドー"
+#803	"Poipole
+ベベノム"
+#804	"Naganadel
+アーゴヨン"
+#805	"Stakataka
+ツンデツンデ"
+#806	"Blacephalon
+ズガドーン"
+#807	"Zeraora
+ゼラオラ"
+#808	"Meltan
+メルタン"
+#809	"Melmetal
+メルメタル"
+#824	"Blipbug
+サッチムシ"
+#825	"Dottler
+レドームシ"
+#826	"Orbeetle
+イオルブ"
+#827	"Nickit
+クスネ"
+#828	"Thievul
+フォクスライ"
+#829	"Gossifleur
+ヒメンカ"
+#830	"Eldegoss
+ワタシラガ"
+#831	"Wooloo
+ウールー"
+#832	"Dubwool
+バイウールー"
+#835	"Yamper
+ワンパチ"
+#836	"Boltund
+パルスワン"
+#850	"Sizzlipede
+ヤクデ"
+#851	"Centiskorch
+マルヤクデ"
+#852	"Clobbopus
+タタッコ"
+#853	"Grapploct
+オトスパス"
+#862	"Obstagoon
+タチフサグマ"
+#864	"Cursola
+サニゴーン"
+#865	"Sirfetch'd
+ネギガナイト"
+#866	"Mr. Rime
+バリコオル"
+#867	"Runerigus
+デスバーン"
+#880	"Dracozolt
+パッチラゴン"
+#881	"Arctozolt
+パッチルドン"
+#882	"Dracovish
+ウオノラゴン"
+#883	"Arctovish
+ウオチルドン"

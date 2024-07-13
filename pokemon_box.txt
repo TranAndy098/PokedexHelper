@@ -1,0 +1,1024 @@
+Bulbasaur 1 2 1
+Ivysaur 2 2 2
+Venusaur 3 2 3
+Charmander 4 2 4
+Charmeleon 5 2 5
+Charizard 6 2 6
+Squirtle 7 2 7
+Wartortle 8 2 8
+Blastoise 9 2 9
+Caterpie 10 Unobtainable  
+Metapod 11 Unobtainable   
+Butterfree 12 Unobtainable
+Weedle 13 Unobtainable    
+Kakuna 14 Unobtainable    
+Beedrill 15 Unobtainable  
+Pidgey 16 Unobtainable    
+Pidgeotto 17 Unobtainable 
+Pidgeot 18 Unobtainable   
+Rattata 19 Unobtainable   
+Raticate 20 Unobtainable  
+Spearow 21 Unobtainable   
+Fearow 22 Unobtainable    
+Ekans 23 2 10
+Arbok 24 2 11
+Pikachu 25 2 12
+Raichu 26 2 13
+Sandshrew 27 2 14
+Sandslash 28 2 15
+Nidorana 32 Unobtainable  
+Nidorina 30 Unobtainable  
+Nidoqueen 31 Unobtainable 
+Nidorino 33 Unobtainable  
+Nidoking 34 Unobtainable  
+Clefairy 35 2 16
+Clefable 36 2 17
+Vulpix 37 2 18
+Ninetales 38 2 19
+Jigglypuff 39 2 20        
+Wigglytuff 40 2 21        
+Zubat 41 Unobtainable     
+Golbat 42 Unobtainable    
+Oddish 43 2 22
+Gloom 44 2 23
+Vileplume 45 2 24
+Paras 46 Unobtainable     
+Parasect 47 Unobtainable  
+Venonat 48 2 25
+Venomoth 49 2 26
+Diglett 50 2 27
+Dugtrio 51 2 28
+Meowth 52 2 29
+Persian 53 2 30
+Psyduck 54 3 1
+Golduck 55 3 2
+Mankey 56 3 3
+Primeape 57 3 4
+Growlithe 58 3 5
+Arcanine 59 3 6
+Poliwag 60 3 7
+Poliwhirl 61 3 8
+Poliwrath 62 3 9
+Abra 63 Unobtainable
+Kadabra 64 Unobtainable
+Alakazam 65 Unobtainable
+Machop 66 Unobtainable
+Machoke 67 Unobtainable
+Machamp 68 Unobtainable
+Bellsprout 69 3 10
+Weepinbell 70 3 11
+Victreebel 71 3 12
+Tentacool 72 3 13
+Tentacruel 73 3 14
+Geodude 74 3 15
+Graveler 75 3 16
+Golem 76 3 17
+Ponyta 77 Unobtainable
+Rapidash 78 Unobtainable
+Slowpoke 79 3 18
+Slowbro 80 3 19
+Magnemite 81 3 20
+Magneton 82 3 21
+Farfetch'd 83 Unobtainable
+Doduo 84 3 22
+Dodrio 85 3 23
+Seel 86 3 24
+Dewgong 87 3 25
+Grimer 88 3 26
+Muk 89 3 27
+Shellder 90 3 28
+Cloyster 91 3 29
+Gastly 92 3 30
+Haunter 93 4 1
+Gengar 94 4 2
+Onix 95 Unobtainable
+Drowzee 96 4 3
+Hypno 97 4 4
+Krabby 98 Unobtainable
+Kingler 99 Unobtainable
+Voltorb 100 4 5
+Electrode 101 4 6
+Exeggcute 102 4 7
+Exeggutor 103 4 8
+Cubone 104 Unobtainable
+Marowak 105 Unobtainable
+Hitmonlee 106 4 9
+Hitmonchan 107 4 10
+Lickitung 108 Unobtainable
+Koffing 109 4 11
+Weezing 110 4 12
+Rhyhorn 111 4 13
+Rhydon 112 4 14
+Chansey 113 4 15
+Tangela 114 Unobtainable
+Kangaskhan 115 Unobtainable
+Horsea 116 4 16
+Seadra 117 4 17
+Goldeen 118 Unobtainable
+Seaking 119 Unobtainable
+Staryu 120 Unobtainable
+Starmie 121 Unobtainable
+Mr. Mime 122 Unobtainable
+Scyther 123 4 18
+Jynx 124 Unobtainable
+Electabuzz 125 4 19
+Magmar 126 4 20
+Pinsir 127 Unobtainable
+Tauros 128 4 21
+Magikarp 129 4 22
+Gyarados 130 4 23
+Lapras 131 4 24
+Ditto 132 4 25
+Eevee 133 4 26
+Vaporeon 134 4 27
+Jolteon 135 4 28
+Flareon 136 4 29
+Porygon 137 4 30
+Omanyte 138 Unobtainable
+Omastar 139 Unobtainable
+Kabuto 140 Unobtainable
+Kabutops 141 Unobtainable
+Aerodactyl 142 Unobtainable
+Snorlax 143 5 1
+Articuno 144 5 2
+Zapdos 145 5 3
+Moltres 146 5 4
+Dratini 147 5 5
+Dragonair 148 5 6
+Dragonite 149 5 7
+Mewtwo 150 5 8
+Mew 151 5 9
+Chikorita 152 6 1
+Bayleef 153 6 2
+Meganium 154 6 3
+Cyndaquil 155 6 4
+Quilava 156 6 5
+Typhlosion 157 6 6
+Totodile 158 6 7
+Croconaw 159 6 8
+Feraligatr 160 6 9
+Sentret 161 6 10
+Furret 162 6 11
+Hoothoot 163 6 12
+Noctowl 164 6 13
+Ledyba 165 Unobtainable
+Ledian 166 Unobtainable
+Spinarak 167 6 14
+Ariados 168 6 15
+Crobat 169 Unobtainable
+Chinchou 170 6 16
+Lanturn 171 6 17
+Pichu 172 6 18
+Cleffa 173 6 19
+Igglybuff 174 6 20
+Togepi 175 Unobtainable
+Togetic 176 Unobtainable
+Natu 177 Unobtainable
+Xatu 178 Unobtainable
+Mareep 179 6 21
+Flaaffy 180 6 22
+Ampharos 181 6 23
+Bellossom 182 6 24
+Marill 183 6 25
+Azumarill 184 6 26
+Sudowoodo 185 6 27
+Politoed 186 6 28
+Hoppip 187 6 29
+Skiploom 188 6 30
+Jumpluff 189 7 1
+Aipom 190 7 2
+Sunkern 191 7 3
+Sunflora 192 7 4
+Yanma 193 7 5
+Wooper 194 7 6
+Quagsire 195 7 7
+Espeon 196 7 8
+Umbreon 197 7 9
+Murkrow 198 7 10
+Slowking 199 7 11
+Misdreavus 200 7 12
+Unown 201 Unobtainable
+Wobbuffet 202 Unobtainable
+Girafarig 203 7 13
+Pineco 204 7 14
+Forretress 205 7 15
+Dunsparce 206 7 16
+Gligar 207 7 17
+Steelix 208 Unobtainable
+Snubbull 209 7 18
+Granbull 210 7 19
+Qwilfish 211 7 20
+Scizor 212 7 21
+Shuckle 213 Unobtainable
+Heracross 214 7 22
+Sneasel 215 7 23
+Teddiursa 216 7 24
+Ursaring 217 7 25
+Slugma 218 7 26
+Magcargo 219 7 27
+Swinub 220 7 28
+Piloswine 221 7 29
+Corsola 222 Unobtainable
+Remoraid 223 Unobtainable
+Octillery 224 Unobtainable
+Delibird 225 7 30
+Mantine 226 Unobtainable
+Skarmory 227 8 1
+Houndour 228 8 2
+Houndoom 229 8 3
+Kingdra 230 8 4
+Phanpy 231 8 5
+Donphan 232 8 6
+Porygon2 233 8 7
+Stantler 234 8 8
+Smeargle 235 8 9
+Tyrogue 236 8 10
+Hitmontop 237 8 11
+Smoochum 238 Unobtainable
+Elekid 239 8 12
+Magby 240 8 13
+Miltank 241 Unobtainable
+Blissey 242 8 14
+Raikou 243 8 15
+Entei 244 8 16
+Suicune 245 8 17
+Larvitar 246 8 18
+Pupitar 247 8 19
+Tyranitar 248 8 20
+Lugia 249 8 21
+Ho-Oh 250 8 22
+Celebi 251 Unobtainable
+Treecko 252 9 1
+Grovyle 253 9 2
+Sceptile 254 9 3
+Torchic 255 9 4
+Combusken 256 9 5
+Blaziken 257 9 6
+Mudkip 258 9 7
+Marshtomp 259 9 8
+Swampert 260 9 9
+Poochyena 261 9 10
+Mightyena 262 9 11
+Zigzagoon 263 Unobtainable
+Linoone 264 Unobtainable
+Wurmple 265 Unobtainable
+Silcoon 266 Unobtainable
+Beautifly 267 Unobtainable
+Cascoon 268 Unobtainable
+Dustox 269 Unobtainable
+Lotad 270 9 12
+Lombre 271 9 13
+Ludicolo 272 9 14
+Seedot 273 9 15
+Nuzleaf 274 9 16
+Shiftry 275 9 17
+Taillow 276 Unobtainable
+Swellow 277 Unobtainable
+Wingull 278 9 18
+Pelipper 279 9 19
+Ralts 280 9 20
+Kirlia 281 9 21
+Gardevoir 282 9 22
+Surskit 283 9 23
+Masquerain 284 9 24
+Shroomish 285 9 25
+Breloom 286 9 26
+Slakoth 287 9 27
+Vigoroth 288 9 28
+Slaking 289 9 29
+Nincada 290 Unobtainable
+Ninjask 291 Unobtainable
+Shedinja 292 Unobtainable
+Whismur 293 Unobtainable
+Loudred 294 Unobtainable
+Exploud 295 Unobtainable
+Makuhita 296 9 30
+Hariyama 297 10 1
+Azurill 298 10 2
+Nosepass 299 10 3
+Skitty 300 Unobtainable
+Delcatty 301 Unobtainable
+Sableye 302 10 4
+Mawile 303 Unobtainable
+Aron 304 Unobtainable
+Lairon 305 Unobtainable
+Aggron 306 Unobtainable
+Meditite 307 10 5
+Medicham 308 10 6
+Electrike 309 Unobtainable
+Manectric 310 Unobtainable
+Plusle 311 10 7
+Minun 312 10 8
+Volbeat 313 10 9
+Illumise 314 10 10
+Roselia 315 Unobtainable
+Gulpin 316 10 11
+Swalot 317 10 12
+Carvanha 318 Unobtainable
+Sharpedo 319 Unobtainable
+Wailmer 320 Unobtainable
+Wailord 321 Unobtainable
+Numel 322 10 13
+Camerupt 323 10 14
+Torkoal 324 10 15
+Spoink 325 10 16
+Grumpig 326 10 17
+Spinda 327 Unobtainable
+Trapinch 328 10 18
+Vibrava 329 10 19
+Flygon 330 10 20
+Cacnea 331 10 21
+Cacturne 332 10 22
+Swablu 333 10 23
+Altaria 334 10 24
+Zangoose 335 10 25
+Seviper 336 10 26
+Lunatone 337 Unobtainable
+Solrock 338 Unobtainable
+Barboach 339 10 27
+Whiscash 340 10 28
+Corphish 341 10 29
+Crawdaunt 342 10 30
+Baltoy 343 Unobtainable
+Claydol 344 Unobtainable
+Lileep 345 Unobtainable
+Cradily 346 Unobtainable
+Anorith 347 Unobtainable
+Armaldo 348 Unobtainable
+Feebas 349 11 1
+Milotic 350 11 2
+Castform 351 Unobtainable
+Kecleon 352 Unobtainable
+Shuppet 353 11 3
+Banette 354 11 4
+Duskull 355 11 5
+Dusclops 356 11 6
+Tropius 357 11 7
+Chimecho 358 11 8
+Absol 359 Unobtainable
+Wynaut 360 Unobtainable
+Snorunt 361 11 9
+Glalie 362 11 10
+Spheal 363 Unobtainable
+Sealeo 364 Unobtainable
+Walrein 365 Unobtainable
+Clamperl 366 Unobtainable
+Huntail 367 Unobtainable
+Gorebyss 368 Unobtainable
+Relicanth 369 Unobtainable
+Luvdisc 370 11 11
+Bagon 371 11 12
+Shelgon 372 11 13
+Salamence 373 11 14
+Beldum 374 11 15
+Metang 375 11 16
+Metagross 376 11 17
+Regirock 377 11 18
+Regice 378 11 19
+Registeel 379 11 20
+Latias 380 11 21
+Latios 381 11 22
+Kyogre 382 11 23
+Groudon 383 11 24
+Rayquaza 384 11 25
+Jirachi 385 11 26
+Deoxys 386 11 27
+Turtwig 387 12 1
+Grotle 388 12 2
+Torterra 389 12 3
+Chimchar 390 12 4
+Monferno 391 12 5
+Infernape 392 12 6
+Piplup 393 12 7
+Prinplup 394 12 8
+Empoleon 395 12 9
+Starly 396 12 10
+Staravia 397 12 11
+Staraptor 398 12 12
+Bidoof 399 Unobtainable
+Bibarel 400 Unobtainable
+Kricketot 401 12 13
+Kricketune 402 12 14
+Shinx 403 12 15
+Luxio 404 12 16
+Luxray 405 12 17
+Budew 406 Unobtainable
+Roserade 407 Unobtainable
+Cranidos 408 12 18
+Rampardos 409 12 19
+Shieldon 410 12 20
+Bastiodon 411 12 21
+Burmy 412 Unobtainable
+Wormadam 413 Unobtainable
+Mothim 414 Unobtainable
+Combee 415 12 22
+Vespiquen 416 12 23
+Pachirisu 417 12 24
+Buizel 418 12 25
+Floatzel 419 12 26
+Cherubi 420 Unobtainable
+Cherrim 421 Unobtainable
+Shellos 422 12 27
+Gastrodon 423 12 28
+Ambipom 424 12 29
+Drifloon 425 12 30
+Drifblim 426 13 1
+Buneary 427 Unobtainable
+Lopunny 428 Unobtainable
+Mismagius 429 13 2
+Honchkrow 430 13 3
+Glameow 431 Unobtainable
+Purugly 432 Unobtainable
+Chingling 433 13 4
+Stunky 434 13 5
+Skuntank 435 13 6
+Bronzor 436 13 7
+Bronzong 437 13 8
+Bonsly 438 13 9
+Mime Jr. 439 Unobtainable
+Happiny 440 13 10
+Chatot 441 Unobtainable
+Spiritomb 442 13 11
+Gible 443 13 12
+Gabite 444 13 13
+Garchomp 445 13 14
+Munchlax 446 13 15
+Riolu 447 13 16
+Lucario 448 13 17
+Hippopotas 449 13 18
+Hippowdon 450 13 19
+Skorupi 451 Unobtainable
+Drapion 452 Unobtainable
+Croagunk 453 13 20
+Toxicroak 454 13 21
+Carnivine 455 Unobtainable
+Finneon 456 13 22
+Lumineon 457 13 23
+Mantyke 458 Unobtainable
+Snover 459 13 24
+Abomasnow 460 13 25
+Weavile 461 13 26
+Magnezone 462 13 27
+Lickilicky 463 Unobtainable
+Rhyperior 464 13 28
+Tangrowth 465 Unobtainable
+Electivire 466 13 29
+Magmortar 467 13 30
+Togekiss 468 Unobtainable
+Yanmega 469 14 1
+Leafeon 470 14 2
+Glaceon 471 14 3
+Gliscor 472 14 4
+Mamoswine 473 14 5
+Porygon-Z 474 14 6
+Gallade 475 14 7
+Probopass 476 14 8
+Dusknoir 477 14 9
+Froslass 478 14 10
+Rotom 479 14 11
+Uxie 480 14 12
+Mesprit 481 14 13
+Azelf 482 14 14
+Dialga 483 14 15
+Palkia 484 14 16
+Heatran 485 14 17
+Regigigas 486 14 18
+Giratina 487 14 19
+Cresselia 488 14 20
+Phione 489 14 21
+Manaphy 490 14 22
+Darkrai 491 14 23
+Shaymin 492 14 24
+Arceus 493 14 25
+Victini 494 Unobtainable
+Snivy 495 15 1
+Servine 496 15 2
+Serperior 497 15 3
+Tepig 498 15 4
+Pignite 499 15 5
+Emboar 500 15 6
+Oshawott 501 15 7
+Dewott 502 15 8
+Samurott 503 15 9
+Patrat 504 Unobtainable
+Watchog 505 Unobtainable
+Lillipup 506 Unobtainable
+Herdier 507 Unobtainable
+Stoutland 508 Unobtainable
+Purrloin 509 Unobtainable
+Liepard 510 Unobtainable
+Pansage 511 Unobtainable
+Simisage 512 Unobtainable
+Pansear 513 Unobtainable
+Simisear 514 Unobtainable
+Panpour 515 Unobtainable
+Simipour 516 Unobtainable
+Munna 517 Unobtainable
+Musharna 518 Unobtainable
+Pidove 519 Unobtainable
+Tranquill 520 Unobtainable
+Unfezant 521 Unobtainable
+Blitzle 522 15 10
+Zebstrika 523 15 11
+Roggenrola 524 Unobtainable
+Boldore 525 Unobtainable
+Gigalith 526 Unobtainable
+Woobat 527 Unobtainable
+Swoobat 528 Unobtainable
+Drilbur 529 15 12
+Excadrill 530 15 13
+Audino 531 Unobtainable
+Timburr 532 15 14
+Gurdurr 533 15 15
+Conkeldurr 534 15 16
+Tympole 535 Unobtainable
+Palpitoad 536 Unobtainable
+Seismitoad 537 Unobtainable
+Throh 538 Unobtainable
+Sawk 539 Unobtainable
+Sewaddle 540 15 17
+Swadloon 541 15 18
+Leavanny 542 15 19
+Venipede 543 Unobtainable
+Whirlipede 544 Unobtainable
+Scolipede 545 Unobtainable
+Cottonee 546 15 20
+Whimsicott 547 15 21
+Petilil 548 15 22
+Lilligant 549 15 23
+Basculin 550 15 24
+Sandile 551 15 25
+Krokorok 552 15 26
+Krookodile 553 15 27
+Darumaka 554 Unobtainable
+Darmanitan 555 Unobtainable
+Maractus 556 Unobtainable
+Dwebble 557 Unobtainable
+Crustle 558 Unobtainable
+Scraggy 559 15 28
+Scrafty 560 15 29
+Sigilyph 561 Unobtainable
+Yamask 562 Unobtainable
+Cofagrigus 563 Unobtainable
+Tirtouga 564 Unobtainable
+Carracosta 565 Unobtainable
+Archen 566 Unobtainable
+Archeops 567 Unobtainable
+Trubbish 568 Unobtainable
+Garbodor 569 Unobtainable
+Zorua 570 15 30
+Zoroark 571 16 1
+Minccino 572 16 2
+Cinccino 573 16 3
+Gothita 574 16 4
+Gothorita 575 16 5
+Gothitelle 576 16 6
+Solosis 577 16 7
+Duosion 578 16 8
+Reuniclus 579 16 9
+Ducklett 580 16 10
+Swanna 581 16 11
+Vanillite 582 Unobtainable
+Vanillish 583 Unobtainable
+Vanilluxe 584 Unobtainable
+Deerling 585 16 12
+Sawsbuck 586 16 13
+Emolga 587 Unobtainable
+Karrablast 588 Unobtainable
+Escavalier 589 Unobtainable
+Foongus 590 16 14
+Amoonguss 591 16 15
+Frillish 592 Unobtainable
+Jellicent 593 Unobtainable
+Alomomola 594 16 16
+Joltik 595 16 17
+Galvantula 596 16 18
+Ferroseed 597 Unobtainable
+Ferrothorn 598 Unobtainable
+Klink 599 Unobtainable
+Klang 600 Unobtainable
+Klinklang 601 Unobtainable
+Tynamo 602 16 19
+Eelektrik 603 16 20
+Eelektross 604 16 21
+Elgyem 605 Unobtainable
+Beheeyem 606 Unobtainable
+Litwick 607 16 22
+Lampent 608 16 23
+Chandelure 609 16 24
+Axew 610 16 25
+Fraxure 611 16 26
+Haxorus 612 16 27
+Cubchoo 613 16 28
+Beartic 614 16 29
+Cryogonal 615 16 30
+Shelmet 616 Unobtainable
+Accelgor 617 Unobtainable
+Stunfisk 618 Unobtainable
+Mienfoo 619 17 1
+Mienshao 620 17 2
+Druddigon 621 Unobtainable
+Golett 622 17 3
+Golurk 623 17 4
+Pawniard 624 17 5
+Bisharp 625 17 6
+Bouffalant 626 Unobtainable
+Rufflet 627 17 7
+Braviary 628 17 8
+Vullaby 629 17 9
+Mandibuzz 630 17 10
+Heatmor 631 Unobtainable
+Durant 632 Unobtainable
+Deino 633 17 11
+Zweilous 634 17 12
+Hydreigon 635 17 13
+Larvesta 636 17 14
+Volcarona 637 17 15
+Cobalion 638 17 16
+Terrakion 639 17 17
+Virizion 640 17 18
+Tornadus 641 17 19
+Thundurus 642 17 20
+Reshiram 643 17 21
+Zekrom 644 17 22
+Landorus 645 17 23
+Kyurem 646 17 24
+Keldeo 647 17 25
+Meloetta 648 17 26
+Genesect 649 Unobtainable
+Chespin 650 18 1
+Quilladin 651 18 2
+Chesnaught 652 18 3
+Fennekin 653 18 4
+Braixen 654 18 5
+Delphox 655 18 6
+Froakie 656 18 7
+Frogadier 657 18 8
+Greninja 658 18 9
+Bunnelby 659 Unobtainable
+Diggersby 660 Unobtainable
+Fletchling 661 18 10
+Fletchinder 662 18 11
+Talonflame 663 18 12
+Scatterbug 664 18 13
+Spewpa 665 18 14
+Vivillon 666 18 15
+Litleo 667 18 16
+Pyroar 668 18 17
+Flabebe 669 18 18
+Floette 670 18 19
+Florges 671 18 20
+Skiddo 672 18 21
+Gogoat 673 18 22
+Pancham 674 Unobtainable
+Pangoro 675 Unobtainable
+Furfrou 676 Unobtainable
+Espurr 677 18 23
+Meowstic 678 18 24
+Honedge 679 Unobtainable
+Doublade 680 Unobtainable
+Aegislash 681 Unobtainable
+Spritzee 682 Unobtainable
+Aromatisse 683 Unobtainable
+Swirlix 684 Unobtainable
+Slurpuff 685 Unobtainable
+Inkay 686 18 25
+Malamar 687 18 26
+Binacle 688 Unobtainable
+Barbaracle 689 Unobtainable
+Skrelp 690 18 27
+Dragalge 691 18 28
+Clauncher 692 18 29
+Clawitzer 693 18 30
+Helioptile 694 Unobtainable
+Heliolisk 695 Unobtainable
+Tyrunt 696 Unobtainable
+Tyrantrum 697 Unobtainable
+Amaura 698 Unobtainable
+Aurorus 699 Unobtainable
+Sylveon 700 19 1
+Hawlucha 701 19 2
+Dedenne 702 19 3
+Carbink 703 19 4
+Goomy 704 19 5
+Sliggoo 705 19 6
+Goodra 706 19 7
+Klefki 707 19 8
+Phantump 708 19 9
+Trevenant 709 19 10
+Pumpkaboo 710 Unobtainable
+Gourgeist 711 Unobtainable
+Bergmite 712 19 11
+Avalugg 713 19 12
+Noibat 714 19 13
+Noivern 715 19 14
+Xerneas 716 Unobtainable
+Yveltal 717 Unobtainable
+Zygarde 718 Unobtainable
+Diancie 719 19 15
+Hoopa 720 19 16
+Volcanion 721 19 17
+Rowlet 722 20 1
+Dartrix 723 20 2
+Decidueye 724 20 3
+Litten 725 20 4
+Torracat 726 20 5
+Incineroar 727 20 6
+Popplio 728 20 7
+Brionne 729 20 8
+Primarina 730 20 9
+Pikipek 731 20 10
+Trumbeak 732 20 11
+Toucannon 733 20 12
+Yungoos 734 20 13
+Gumshoos 735 20 14
+Grubbin 736 20 15
+Charjabug 737 20 16
+Vikavolt 738 20 17
+Crabrawler 739 20 18
+Crabominable 740 20 19
+Oricorio 741 20 20
+Cutiefly 742 20 21
+Ribombee 743 20 22
+Rockruff 744 20 23
+Lycanroc 745 20 24
+Wishiwashi 746 Unobtainable
+Mareanie 747 20 25
+Toxapex 748 20 26
+Mudbray 749 20 27
+Mudsdale 750 20 28
+Dewpider 751 20 29
+Araquanid 752 20 30
+Fomantis 753 21 1
+Lurantis 754 21 2
+Morelull 755 Unobtainable
+Shiinotic 756 Unobtainable
+Salandit 757 21 3
+Salazzle 758 21 4
+Stufful 759 Unobtainable
+Bewear 760 Unobtainable
+Bounsweet 761 21 5
+Steenee 762 21 6
+Tsareena 763 21 7
+Comfey 764 21 8
+Oranguru 765 21 9
+Passimian 766 21 10
+Wimpod 767 Unobtainable
+Golisopod 768 Unobtainable
+Sandygast 769 21 11
+Palossand 770 21 12
+Pyukumuku 771 Unobtainable
+Type: Null 772 Unobtainable
+Silvally 773 Unobtainable
+Minior 774 21 13
+Komala 775 21 14
+Turtonator 776 Unobtainable
+Togedemaru 777 Unobtainable
+Mimikyu 778 21 15
+Bruxish 779 21 16
+Drampa 780 Unobtainable
+Dhelmise 781 Unobtainable
+Jangmo-o 782 21 17
+Hakamo-o 783 21 18
+Kommo-o 784 21 19
+Tapu Koko 785 Unobtainable
+Tapu Lele 786 Unobtainable
+Tapu Bulu 787 Unobtainable
+Tapu Fini 788 Unobtainable
+Cosmog 789 21 20
+Cosmoem 790 21 21
+Solgaleo 791 21 22
+Lunala 792 21 23
+Nihilego 793 Unobtainable
+Buzzwole 794 Unobtainable
+Pheromosa 795 Unobtainable
+Xurkitree 796 Unobtainable
+Celesteela 797 Unobtainable
+Kartana 798 Unobtainable
+Guzzlord 799 Unobtainable
+Necrozma 800 21 24
+Magearna 801 21 25
+Marshadow 802 Unobtainable
+Poipole 803 Unobtainable
+Naganadel 804 Unobtainable
+Stakataka 805 Unobtainable
+Blacephalon 806 Unobtainable
+Zeraora 807 Unobtainable
+Meltan 808 Unobtainable
+Melmetal 809 Unobtainable
+Grookey 810 22 1
+Thwackey 811 22 2
+Rillaboom 812 22 3
+Scorbunny 813 22 4
+Raboot 814 22 5
+Cinderace 815 22 6
+Sobble 816 22 7
+Drizzile 817 22 8
+Inteleon 818 22 9
+Skwovet 819 22 10
+Greedent 820 22 11
+Rookidee 821 22 12
+Corvisquire 822 22 13
+Corviknight 823 22 14
+Blipbug 824 Unobtainable
+Dottler 825 Unobtainable
+Orbeetle 826 Unobtainable
+Nickit 827 Unobtainable
+Thievul 828 Unobtainable
+Gossifleur 829 Unobtainable
+Eldegoss 830 Unobtainable
+Wooloo 831 Unobtainable
+Dubwool 832 Unobtainable
+Chewtle 833 22 15
+Drednaw 834 22 16
+Yamper 835 Unobtainable
+Boltund 836 Unobtainable
+Rolycoly 837 22 17
+Carkol 838 22 18
+Coalossal 839 22 19
+Applin 840 22 20
+Flapple 841 22 21
+Appletun 842 22 22
+Silicobra 843 22 23
+Sandaconda 844 22 24
+Cramorant 845 22 25
+Arrokuda 846 22 26
+Barraskewda 847 22 27
+Toxel 848 22 28
+Toxtricity 849 22 29
+Sizzlipede 850 Unobtainable
+Centiskorch 851 Unobtainable
+Clobbopus 852 Unobtainable
+Grapploct 853 Unobtainable
+Sinistea 854 22 30
+Polteageist 855 23 1
+Hatenna 856 23 2
+Hattrem 857 23 3
+Hatterene 858 23 4
+Impidimp 859 23 5
+Morgrem 860 23 6
+Grimmsnarl 861 23 7
+Obstagoon 862 Unobtainable
+Perrserker 863 23 8
+Cursola 864 Unobtainable
+Sirfetch'd 865 Unobtainable
+Mr. Rime 866 Unobtainable
+Runerigus 867 Unobtainable
+Milcery 868 23 9
+Alcremie 869 23 10
+Falinks 870 23 11
+Pincurchin 871 23 12
+Snom 872 23 13
+Frosmoth 873 23 14
+Stonjourner 874 23 15
+Eiscue 875 23 16
+Indeedee 876 23 17
+Morpeko 877 23 18
+Cufant 878 23 19
+Copperajah 879 23 20
+Dracozolt 880 Unobtainable
+Arctozolt 881 Unobtainable
+Dracovish 882 Unobtainable
+Arctovish 883 Unobtainable
+Duraludon 884 23 21
+Dreepy 885 23 22
+Drakloak 886 23 23
+Dragapult 887 23 24
+Zacian 888 23 25
+Zamazenta 889 23 26
+Eternatus 890 23 27
+Kubfu 891 23 28
+Urshifu 892 23 29
+Zarude 893 23 30
+Regieleki 894 24 1
+Regidrago 895 24 2
+Glastrier 896 24 3
+Spectrier 897 24 4
+Calyrex 898 24 5
+Wyrdeer 899 24 6
+Kleavor 900 24 7
+Ursaluna 901 24 8
+Basculegion 902 24 9
+Sneasler 903 24 10
+Overqwil 904 24 11
+Enamorus 905 24 12
+Sprigatito 906 25 1
+Floragato 907 25 2
+Meowscarada 908 25 3
+Fuecoco 909 25 4
+Crocalor 910 25 5
+Skeledirge 911 25 6
+Quaxly 912 25 7
+Quaxwell 913 25 8
+Quaquaval 914 25 9
+Lechonk 915 25 10
+Oinkologne 916 25 11
+Tarountula 917 25 12
+Spidops 918 25 13
+Nymble 919 25 14
+Lokix 920 25 15
+Pawmi 921 25 16
+Pawmo 922 25 17
+Pawmot 923 25 18
+Tandemaus 924 25 19
+Maushold 925 25 20
+Fidough 926 25 21
+Dachsbun 927 25 22
+Smoliv 928 25 23
+Dolliv 929 25 24
+Arboliva 930 25 25
+Squawkabilly 931 25 26
+Nacli 932 25 27
+Naclstack 933 25 28
+Garganacl 934 25 29
+Charcadet 935 25 30
+Armarouge 936 26 1
+Ceruledge 937 26 2
+Tadbulb 938 26 3
+Bellibolt 939 26 4
+Wattrel 940 26 5
+Kilowattrel 941 26 6
+Maschiff 942 26 7
+Mabosstiff 943 26 8
+Shroodle 944 26 9
+Grafaiai 945 26 10
+Bramblin 946 26 11
+Brambleghast 947 26 12
+Toedscool 948 26 13
+Toedscruel 949 26 14
+Klawf 950 26 15
+Capsakid 951 26 16
+Scovillain 952 26 17
+Rellor 953 26 18
+Rabsca 954 26 19
+Flittle 955 26 20
+Espathra 956 26 21
+Tinkatink 957 26 22
+Tinkatuff 958 26 23
+Tinkaton 959 26 24
+Wiglett 960 26 25
+Wugtrio 961 26 26
+Bombirdier 962 26 27
+Finizen 963 26 28
+Palafin 964 26 29
+Varoom 965 26 30
+Revavroom 966 27 1
+Cyclizar 967 27 2
+Orthworm 968 27 3
+Glimmet 969 27 4
+Glimmora 970 27 5
+Greavard 971 27 6
+Houndstone 972 27 7
+Flamigo 973 27 8
+Cetoddle 974 27 9
+Cetitan 975 27 10
+Veluza 976 27 11
+Dondozo 977 27 12
+Tatsugiri 978 27 13
+Annihilape 979 27 14
+Clodsire 980 27 15
+Farigiraf 981 27 16
+Dudunsparce 982 27 17
+Kingambit 983 27 18
+Great Tusk 984 27 19
+Scream Tail 985 27 20
+Brute Bonnet 986 27 21
+Flutter Mane 987 27 22
+Slither Wing 988 27 23
+Sandy Shocks 989 27 24
+Iron Treads 990 27 25
+Iron Bundle 991 27 26
+Iron Hands 992 27 27
+Iron Jugulis 993 27 28
+Iron Moth 994 27 29
+Iron Thorns 995 27 30
+Frigibax 996 28 1
+Arctibax 997 28 2
+Baxcalibur 998 28 3
+Gimmighoul 999 28 4
+Gholdengo 1000 28 5
+Wo-Chien 1001 28 6
+Chien-Pao 1002 28 7
+Ting-Lu 1003 28 8
+Chi-Yu 1004 28 9
+Roaring Moon 1005 28 10
+Iron Valiant 1006 28 11
+Koraidon 1007 28 12
+Miraidon 1008 28 13
+Walking Wake 1009 28 14
+Iron Leaves 1010 28 15
+Dipplin 1011 28 16
+Poltchageist 1012 28 17
+Sinistcha 1013 28 18
+Okidogi 1014 28 19
+Munkidori 1015 28 20
+Fezandipiti 1016 28 21
+Ogerpon 1017 28 22
+Archaludon 1018 28 23
+Hydrapple 1019 28 24
+Gouging Fire 1020 28 25
+Raging Bolt 1021 28 26
+Iron Boulder 1022 28 27
+Iron Crown 1023 28 28
+Terapagos 1024 28 29
+Pecharunt 1025 28 30
