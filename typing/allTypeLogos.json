@@ -1,0 +1,164 @@
+{
+  "normal": {
+    "Name": "normal",
+    "DisplayName": "Normal",
+    "TypeLogoSquare": "/typeImages/normal/NormalTypeLogoSquare.png",
+    "TypeLogoCircle": "/typeImages/normal/NormalTypeLogoCircle.png",
+    "TypeTextSquare": "/typeImages/normal/NormalTypeTextSquare.png",
+    "TypeTextRound": "/typeImages/normal/NormalTypeTextRound.png",
+    "TypeTextLogo": "/typeImages/normal/NormalTypeTextLogo.png"
+  },
+  "fighting": {
+    "Name": "fighting",
+    "DisplayName": "Fighting",
+    "TypeLogoSquare": "/typeImages/fighting/FightingTypeLogoSquare.png",
+    "TypeLogoCircle": "/typeImages/fighting/FightingTypeLogoCircle.png",
+    "TypeTextSquare": "/typeImages/fighting/FightingTypeTextSquare.png",
+    "TypeTextRound": "/typeImages/fighting/FightingTypeTextRound.png",
+    "TypeTextLogo": "/typeImages/fighting/FightingTypeTextLogo.png"
+  },
+  "flying": {
+    "Name": "flying",
+    "DisplayName": "Flying",
+    "TypeLogoSquare": "/typeImages/flying/FlyingTypeLogoSquare.png",
+    "TypeLogoCircle": "/typeImages/flying/FlyingTypeLogoCircle.png",
+    "TypeTextSquare": "/typeImages/flying/FlyingTypeTextSquare.png",
+    "TypeTextRound": "/typeImages/flying/FlyingTypeTextRound.png",
+    "TypeTextLogo": "/typeImages/flying/FlyingTypeTextLogo.png"
+  },
+  "poison": {
+    "Name": "poison",
+    "DisplayName": "Poison",
+    "TypeLogoSquare": "/typeImages/poison/PoisonTypeLogoSquare.png",
+    "TypeLogoCircle": "/typeImages/poison/PoisonTypeLogoCircle.png",
+    "TypeTextSquare": "/typeImages/poison/PoisonTypeTextSquare.png",
+    "TypeTextRound": "/typeImages/poison/PoisonTypeTextRound.png",
+    "TypeTextLogo": "/typeImages/poison/PoisonTypeTextLogo.png"
+  },
+  "ground": {
+    "Name": "ground",
+    "DisplayName": "Ground",
+    "TypeLogoSquare": "/typeImages/ground/GroundTypeLogoSquare.png",
+    "TypeLogoCircle": "/typeImages/ground/GroundTypeLogoCircle.png",
+    "TypeTextSquare": "/typeImages/ground/GroundTypeTextSquare.png",
+    "TypeTextRound": "/typeImages/ground/GroundTypeTextRound.png",
+    "TypeTextLogo": "/typeImages/ground/GroundTypeTextLogo.png"
+  },
+  "rock": {
+    "Name": "rock",
+    "DisplayName": "Rock",
+    "TypeLogoSquare": "/typeImages/rock/RockTypeLogoSquare.png",
+    "TypeLogoCircle": "/typeImages/rock/RockTypeLogoCircle.png",
+    "TypeTextSquare": "/typeImages/rock/RockTypeTextSquare.png",
+    "TypeTextRound": "/typeImages/rock/RockTypeTextRound.png",
+    "TypeTextLogo": "/typeImages/rock/RockTypeTextLogo.png"
+  },
+  "bug": {
+    "Name": "bug",
+    "DisplayName": "Bug",
+    "TypeLogoSquare": "/typeImages/bug/BugTypeLogoSquare.png",
+    "TypeLogoCircle": "/typeImages/bug/BugTypeLogoCircle.png",
+    "TypeTextSquare": "/typeImages/bug/BugTypeTextSquare.png",
+    "TypeTextRound": "/typeImages/bug/BugTypeTextRound.png",
+    "TypeTextLogo": "/typeImages/bug/BugTypeTextLogo.png"
+  },
+  "ghost": {
+    "Name": "ghost",
+    "DisplayName": "Ghost",
+    "TypeLogoSquare": "/typeImages/ghost/GhostTypeLogoSquare.png",
+    "TypeLogoCircle": "/typeImages/ghost/GhostTypeLogoCircle.png",
+    "TypeTextSquare": "/typeImages/ghost/GhostTypeTextSquare.png",
+    "TypeTextRound": "/typeImages/ghost/GhostTypeTextRound.png",
+    "TypeTextLogo": "/typeImages/ghost/GhostTypeTextLogo.png"
+  },
+  "steel": {
+    "Name": "steel",
+    "DisplayName": "Steel",
+    "TypeLogoSquare": "/typeImages/steel/SteelTypeLogoSquare.png",
+    "TypeLogoCircle": "/typeImages/steel/SteelTypeLogoCircle.png",
+    "TypeTextSquare": "/typeImages/steel/SteelTypeTextSquare.png",
+    "TypeTextRound": "/typeImages/steel/SteelTypeTextRound.png",
+    "TypeTextLogo": "/typeImages/steel/SteelTypeTextLogo.png"
+  },
+  "fire": {
+    "Name": "fire",
+    "DisplayName": "Fire",
+    "TypeLogoSquare": "/typeImages/fire/FireTypeLogoSquare.png",
+    "TypeLogoCircle": "/typeImages/fire/FireTypeLogoCircle.png",
+    "TypeTextSquare": "/typeImages/fire/FireTypeTextSquare.png",
+    "TypeTextRound": "/typeImages/fire/FireTypeTextRound.png",
+    "TypeTextLogo": "/typeImages/fire/FireTypeTextLogo.png"
+  },
+  "water": {
+    "Name": "water",
+    "DisplayName": "Water",
+    "TypeLogoSquare": "/typeImages/water/WaterTypeLogoSquare.png",
+    "TypeLogoCircle": "/typeImages/water/WaterTypeLogoCircle.png",
+    "TypeTextSquare": "/typeImages/water/WaterTypeTextSquare.png",
+    "TypeTextRound": "/typeImages/water/WaterTypeTextRound.png",
+    "TypeTextLogo": "/typeImages/water/WaterTypeTextLogo.png"
+  },
+  "grass": {
+    "Name": "grass",
+    "DisplayName": "Grass",
+    "TypeLogoSquare": "/typeImages/grass/GrassTypeLogoSquare.png",
+    "TypeLogoCircle": "/typeImages/grass/GrassTypeLogoCircle.png",
+    "TypeTextSquare": "/typeImages/grass/GrassTypeTextSquare.png",
+    "TypeTextRound": "/typeImages/grass/GrassTypeTextRound.png",
+    "TypeTextLogo": "/typeImages/grass/GrassTypeTextLogo.png"
+  },
+  "electric": {
+    "Name": "electric",
+    "DisplayName": "Electric",
+    "TypeLogoSquare": "/typeImages/electric/ElectricTypeLogoSquare.png",
+    "TypeLogoCircle": "/typeImages/electric/ElectricTypeLogoCircle.png",
+    "TypeTextSquare": "/typeImages/electric/ElectricTypeTextSquare.png",
+    "TypeTextRound": "/typeImages/electric/ElectricTypeTextRound.png",
+    "TypeTextLogo": "/typeImages/electric/ElectricTypeTextLogo.png"
+  },
+  "psychic": {
+    "Name": "psychic",
+    "DisplayName": "Psychic",
+    "TypeLogoSquare": "/typeImages/psychic/PsychicTypeLogoSquare.png",
+    "TypeLogoCircle": "/typeImages/psychic/PsychicTypeLogoCircle.png",
+    "TypeTextSquare": "/typeImages/psychic/PsychicTypeTextSquare.png",
+    "TypeTextRound": "/typeImages/psychic/PsychicTypeTextRound.png",
+    "TypeTextLogo": "/typeImages/psychic/PsychicTypeTextLogo.png"
+  },
+  "ice": {
+    "Name": "ice",
+    "DisplayName": "Ice",
+    "TypeLogoSquare": "/typeImages/ice/IceTypeLogoSquare.png",
+    "TypeLogoCircle": "/typeImages/ice/IceTypeLogoCircle.png",
+    "TypeTextSquare": "/typeImages/ice/IceTypeTextSquare.png",
+    "TypeTextRound": "/typeImages/ice/IceTypeTextRound.png",
+    "TypeTextLogo": "/typeImages/ice/IceTypeTextLogo.png"
+  },
+  "dragon": {
+    "Name": "dragon",
+    "DisplayName": "Dragon",
+    "TypeLogoSquare": "/typeImages/dragon/DragonTypeLogoSquare.png",
+    "TypeLogoCircle": "/typeImages/dragon/DragonTypeLogoCircle.png",
+    "TypeTextSquare": "/typeImages/dragon/DragonTypeTextSquare.png",
+    "TypeTextRound": "/typeImages/dragon/DragonTypeTextRound.png",
+    "TypeTextLogo": "/typeImages/dragon/DragonTypeTextLogo.png"
+  },
+  "dark": {
+    "Name": "dark",
+    "DisplayName": "Dark",
+    "TypeLogoSquare": "/typeImages/dark/DarkTypeLogoSquare.png",
+    "TypeLogoCircle": "/typeImages/dark/DarkTypeLogoCircle.png",
+    "TypeTextSquare": "/typeImages/dark/DarkTypeTextSquare.png",
+    "TypeTextRound": "/typeImages/dark/DarkTypeTextRound.png",
+    "TypeTextLogo": "/typeImages/dark/DarkTypeTextLogo.png"
+  },
+  "fairy": {
+    "Name": "fairy",
+    "DisplayName": "Fairy",
+    "TypeLogoSquare": "/typeImages/fairy/FairyTypeLogoSquare.png",
+    "TypeLogoCircle": "/typeImages/fairy/FairyTypeLogoCircle.png",
+    "TypeTextSquare": "/typeImages/fairy/FairyTypeTextSquare.png",
+    "TypeTextRound": "/typeImages/fairy/FairyTypeTextRound.png",
+    "TypeTextLogo": "/typeImages/fairy/FairyTypeTextLogo.png"
+  }
+}
